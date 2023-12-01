@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701439774 source:c:\projects\exercices_cpp_bsi\tests\main.cpp
+	<iostream>
+	<vector>
+
