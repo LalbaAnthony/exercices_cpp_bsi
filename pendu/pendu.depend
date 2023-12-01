@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701436473 source:c:\projects\c++\pendu\main.cpp
+	<iostream>
+	<time.h>
+	<string.h>
+
