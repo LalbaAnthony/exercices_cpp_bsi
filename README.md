@@ -4,5 +4,5 @@
 
 ## ⌨ - Infos :
 
-* Tout les dossiers sont de sprojet codes block
+* Tout les sous-dossiers sont des projets codes block
 * Importez l'espace de travail depuis ``` /current.workspace.layout ```
