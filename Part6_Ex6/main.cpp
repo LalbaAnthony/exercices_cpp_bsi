@@ -2,7 +2,7 @@
 
 using namespace std;
 
-bool mod(int a, int b);
+bool estDivisible(int a, int b);
 
 int main()
 {
@@ -14,7 +14,7 @@ int main()
 
     for (int i = 0; i <= 9; i++)
     {
-        if (mod(n, numbers[i]))
+        if (estDivisible(n, numbers[i]))
         {
             cout << n << " est divisible par " <<  numbers[i] << endl;
         }
@@ -23,7 +23,7 @@ int main()
     return 0;
 }
 
-bool mod(int a, int b)
+bool estDivisible(int a, int b)
 {
     return a % b == 0 ? true : false;
 }
