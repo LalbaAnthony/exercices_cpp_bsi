@@ -1,0 +1,4 @@
+todo: 
+- [x] Add nb guess at the very first guess  
+- [x] Space at _
+- [x] Handle the case where user make a same rated guess twice (and guess are differents)
