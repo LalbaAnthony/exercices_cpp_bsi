@@ -1,4 +1,4 @@
-# Exercices de C++ réalisé dans le cadre de mon Bachelor SI
+# Exercices de C++ réalisés dans le cadre de mon Bachelor SI
 
 -----
 
